@@ -1,0 +1,25 @@
+{
+"products": 
+[
+{"id":1,"name":"Phascogale, brush-tailed","category":"Blue"},
+{"id":2,"name":"Collared lemming","category":"Violet"},
+{"id":3,"name":"Chital","category":"Aquamarine"},
+{"id":4,"name":"Hoary marmot","category":"Goldenrod"},
+{"id":5,"name":"Oryx, beisa","category":"Teal"},
+{"id":6,"name":"Loris, slender","category":"Teal"},
+{"id":7,"name":"Yellow mongoose","category":"Blue"},
+{"id":8,"name":"Praying mantis (unidentified)","category":"Khaki"},
+{"id":9,"name":"Buttermilk snake","category":"Fuscia"},
+{"id":10,"name":"Rock dove","category":"Green"},
+{"id":11,"name":"Hawk, red-tailed","category":"Mauv"},
+{"id":12,"name":"Macaw, red and blue","category":"Red"},
+{"id":13,"name":"Barrows goldeneye","category":"Aquamarine"},
+{"id":14,"name":"Penguin, magellanic","category":"Turquoise"},
+{"id":15,"name":"Otter, african clawless","category":"Maroon"},
+{"id":16,"name":"Cormorant, little","category":"Indigo"},
+{"id":17,"name":"Japanese macaque","category":"Puce"},
+{"id":18,"name":"Insect, stick","category":"Violet"},
+{"id":19,"name":"Goose, spur-winged","category":"Teal"},
+{"id":20,"name":"Seal, southern elephant","category":"Blue"}
+]
+}
